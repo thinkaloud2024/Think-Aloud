@@ -70,4 +70,3 @@ You can jump straight to:
 {% else %}
 <p><em>Silence, for the moment.</em></p>
 {% endif %}
-
