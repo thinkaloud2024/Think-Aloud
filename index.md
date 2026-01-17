@@ -7,9 +7,15 @@ title: Think-Aloud
 
 Welcome. This is a small space for:
 
-- **number and ideas** – playful math, patterns, and thoughts that click or almost click  
-- **postcards** – small dispatches, scenes, letters to nowhere in particular  
-- **quiet words** – softer pieces, fragments, and low-volume reflections  
+- **number and ideas** – playful math, patterns, and thoughts  
+- **postcards** – little scenes, notes, and letters  
+- **quiet words** – softer pieces and slower reflections  
+
+You can also jump straight to:
+
+- [number and ideas](/number-and-ideas/)
+- [postcards](/postcards/)
+- [quiet words](/quiet-words/)
 
 ---
 
@@ -26,7 +32,7 @@ Welcome. This is a small space for:
   {% endfor %}
 </ul>
 {% else %}
-<p><em>Nothing here yet. Soon.</em></p>
+<p><em>Nothing here yet.</em></p>
 {% endif %}
 
 ---
