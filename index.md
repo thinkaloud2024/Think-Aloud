@@ -7,15 +7,15 @@ title: Think-Aloud
 
 Welcome. This is a small space for:
 
-- **number and ideas** – playful math, patterns, and thoughts  
-- **postcards** – little scenes, notes, and letters  
+- **number and ideas** – playful math, patterns, and thoughts that almost click  
+- **postcards** – little scenes, notes, and letters to nowhere in particular  
 - **quiet words** – softer pieces and slower reflections  
 
-You can also jump straight to:
+You can jump straight to:
 
-- [number and ideas](/number-and-ideas/)
-- [postcards](/postcards/)
-- [quiet words](/quiet-words/)
+- [number and ideas]({{ "/number-and-ideas/" | relative_url }})
+- [postcards]({{ "/postcards/" | relative_url }})
+- [quiet words]({{ "/quiet-words/" | relative_url }})
 
 ---
 
@@ -70,3 +70,4 @@ You can also jump straight to:
 {% else %}
 <p><em>Silence, for the moment.</em></p>
 {% endif %}
+
