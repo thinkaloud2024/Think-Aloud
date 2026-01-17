@@ -1,10 +1,10 @@
 title: Think-Aloud
 description: "A small notebook of number and ideas, postcards, and quiet words."
-
-# Use GitHub Pages' built-in Minimal theme
 theme: jekyll-theme-minimal
 
-# Optional extras
+# IMPORTANT for GitHub project pages:
+url: "https://thinkaloud2024.github.io"
+baseurl: "/Think-Aloud"
+
 markdown: kramdown
 highlighter: rouge
-
