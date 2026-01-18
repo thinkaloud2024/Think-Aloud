@@ -6,7 +6,10 @@ permalink: /postcards/
 
 # postcards
 
-{% assign postcard_posts = site.posts | where_exp: "post", "post.categories contains 'postcards'" %}
+{% assign postcard_posts = site.posts | where: "categories", "postcards" %}
+
+<p><em>Posts found in postcards: {{ postcard_posts | size }}</em></p>
+
 {% if postcard_posts.size > 0 %}
 <ul>
   {% for post in postcard_posts %}
