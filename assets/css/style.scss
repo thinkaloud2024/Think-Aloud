@@ -3,39 +3,34 @@
 
 @import "{{ site.theme }}";
 
-/* Make sidebar text slightly smaller and lighter */
-header .wrapper p {
-  font-size: 0.9em;
+/* Optional: make the sidebar block look tidy in Minimal */
+header p {
+  font-size: 0.95em;
   color: #555;
 }
 
-/* Hide the "View the Project on GitHub" link */
-header .view {
-  display: none;
-}
-
-/* Subtle divider under the intro / before nav */
-header .wrapper hr.nav-divider {
+/* Divider */
+hr.nav-divider {
   border: none;
   border-top: 1px solid #ddd;
   margin: 0.75em 0 0.5em;
 }
 
-/* Mini navigation list in the sidebar */
-header .wrapper .nav-links {
+/* Sidebar nav list */
+.nav-links {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-header .wrapper .nav-links li {
-  margin: 0.15em 0;
+.nav-links li {
+  margin: 0.2em 0;
 }
 
-header .wrapper .nav-links a {
+.nav-links a {
   text-decoration: none;
 }
 
-header .wrapper .nav-links a:hover {
+.nav-links a:hover {
   text-decoration: underline;
 }
