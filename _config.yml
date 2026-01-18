@@ -17,4 +17,5 @@ description: >
     <li><a href="/Think-Aloud/quiet-words/">quiet words</a></li>
   </ul>
 
+show_downloads: false
 theme: jekyll-theme-minimal
