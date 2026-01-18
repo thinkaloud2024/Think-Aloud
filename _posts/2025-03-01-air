@@ -1,7 +1,7 @@
 
-layout "default"
-title "air"
-categories "quiet words"
+layout: default
+title: "Air"
+categories: quiet words
 
 
 So easy to forget
