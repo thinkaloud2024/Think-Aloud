@@ -1,15 +1,20 @@
 title: Think-Aloud
-description: "A small notebook of number and ideas, postcards, and quiet words."
 
-# Use GitHub Pages built-in Minimal theme
-theme: jekyll-theme-minimal
+description: >
+  <p><strong>Welcome.</strong> This is a small space for:</p>
 
-# IMPORTANT: this is a *project* site, not a user site
-url: "https://thinkaloud2024.github.io"
-baseurl: "/Think-Aloud"   # must match your repo name exactly, with leading /
+  <ul>
+    <li><strong>number and ideas</strong> – playful math, patterns, and thoughts that almost click</li>
+    <li><strong>postcards</strong> – little scenes, notes, and letters to nowhere in particular</li>
+    <li><strong>quiet words</strong> – softer pieces and slower reflections</li>
+  </ul>
 
-markdown: kramdown
-highlighter: rouge
+  <hr class="nav-divider" />
 
-# Optional: nicer permalinks for posts
-permalink: /:categories/:title/
+  <ul class="nav-links">
+    <li><a href="/Think-Aloud/number-and-ideas/">number and ideas</a></li>
+    <li><a href="/Think-Aloud/postcards/">postcards</a></li>
+    <li><a href="/Think-Aloud/quiet-words/">quiet words</a></li>
+  </ul>
+
+theme: minimal
