@@ -46,7 +46,3 @@ title: Think-Aloud
 </ul>
 {% endif %}
 
-  {% endfor %}
-</ul>
-{% endif %}
-
