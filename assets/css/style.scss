@@ -3,28 +3,40 @@
 
 @import "{{ site.theme }}";
 
-/* Optional: make the sidebar block look tidy in Minimal */
+/* Sidebar intro text */
 header p {
   font-size: 0.95em;
   color: #555;
+  margin-bottom: 0.75em;
 }
 
-/* Divider */
+/* Sidebar lists */
+header ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 0.75em 0;
+}
+
+header ul li {
+  margin: 0.3em 0;
+}
+
+/* Divider line */
 hr.nav-divider {
   border: none;
   border-top: 1px solid #ddd;
-  margin: 0.75em 0 0.5em;
+  margin: 0.75em 0;
 }
 
-/* Sidebar nav list */
+/* Navigation links in sidebar */
 .nav-links {
   list-style: none;
-  margin: 0;
   padding: 0;
+  margin: 0;
 }
 
 .nav-links li {
-  margin: 0.2em 0;
+  margin: 0.25em 0;
 }
 
 .nav-links a {
