@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tibet"
+title: "Tibet:Above The World"
 categories: postcards
 ---
 
