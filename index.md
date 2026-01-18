@@ -3,19 +3,23 @@ layout: default
 title: Think-Aloud
 ---
 
-Welcome. This is a small space for:
+<div class="home-intro">
+  <p><strong>Welcome.</strong> This is a small space for:</p>
 
-- **number and ideas** – playful math, patterns, and thoughts that almost click  
-- **postcards** – little scenes, notes, and letters to nowhere in particular  
-- **quiet words** – softer pieces and slower reflections  
+  <ul>
+    <li><strong>number and ideas</strong> – playful math, patterns, and thoughts that almost click</li>
+    <li><strong>postcards</strong> – little scenes, notes, and letters to nowhere in particular</li>
+    <li><strong>quiet words</strong> – softer pieces and slower reflections</li>
+  </ul>
 
-<hr class="nav-divider" />
+  <hr class="nav-divider" />
 
-<ul class="nav-links">
-  <li><a href="{{ "/number-and-ideas/" | relative_url }}">number and ideas</a></li>
-  <li><a href="{{ "/postcards/" | relative_url }}">postcards</a></li>
-  <li><a href="{{ "/quiet-words/" | relative_url }}">quiet words</a></li>
-</ul>
+  <ul class="nav-links">
+    <li><a href="{{ "/number-and-ideas/" | relative_url }}">number and ideas</a></li>
+    <li><a href="{{ "/postcards/" | relative_url }}">postcards</a></li>
+    <li><a href="{{ "/quiet-words/" | relative_url }}">quiet words</a></li>
+  </ul>
+</div>
 
 ---
 
