@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The formulas in Buddhist temples"
+title: "Robot Actors: The Theatrical Dilemma"
 categories: number-and-ideas
 ---
 One of the major topics for debate today is AI. It can improve self-studying, data analysis, and even scientific discoveries, but there are also serious concerns about user integrity and job loss. The issue of AI actors in particular underlines both of these issues. 
